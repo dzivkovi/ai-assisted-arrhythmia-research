@@ -13,11 +13,11 @@ This project demonstrates how NotebookLM can:
 
 ### Audio Overview
 
-Hear the research explained in plain language:
+Hear the research explained in plain language as conversations between two (AI) hosts engaging in a lively, chatty discussion based on the provided information:
 
 <audio controls>
   <source src="Natural%20Strategies%20for%20Daytime%20Arrhythmia%20Reduction.wav" type="audio/wav">
-  (Your browser does not support the audio element. Listen to the Deep Dive Podcast on NotebookLM website: https://notebooklm.google.com/notebook/a78fdcf9-5896-4544-a294-1d33b9b87f7d/audio.)
+  (Audio element not supported. Listen to the "Deep Dive" here: https://gabalpha.github.io/read-audio/?p=https://github.com/dzivkovi/ai-assisted-arrhythmia-research/raw/refs/heads/main/Natural%20Strategies%20for%20Daytime%20Arrhythmia%20Reduction.wav.)
 </audio>
 
 ### Interactive Mind Map
