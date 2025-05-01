@@ -17,7 +17,7 @@ Hear the research explained in plain language:
 
 <audio controls>
   <source src="Natural%20Strategies%20for%20Daytime%20Arrhythmia%20Reduction.wav" type="audio/wav">
-  Your browser does not support the audio element. Listen to the [Deep Dive Podcast on NotebookLM](https://notebooklm.google.com/notebook/a78fdcf9-5896-4544-a294-1d33b9b87f7d/audio) website.
+  (Your browser does not support the audio element. Listen to the Deep Dive Podcast on NotebookLM website: https://notebooklm.google.com/notebook/a78fdcf9-5896-4544-a294-1d33b9b87f7d/audio.)
 </audio>
 
 ### Interactive Mind Map
